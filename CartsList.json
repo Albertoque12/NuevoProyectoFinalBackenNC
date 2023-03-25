@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "products": [
+      {
+        "name": "Libro",
+        "price": 13.99,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "products": [
+      {
+        "name": "Pelota"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "products": [
+      {
+        "name": "Disco"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "products": [
+      {
+        "name": "Algo",
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "products": [
+      {
+        "name": "Juguete"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "products": [
+      {}
+    ]
+  },
+  {
+    "id": 7,
+    "products": []
+  },
+  {
+    "id": 8,
+    "products": [
+      {
+        "id": 4,
+        "title": "El mundo de Sofía",
+        "description": "Filosofía",
+        "price": 350,
+        "status": true,
+        "thumbnail": "image",
+        "code": 1559,
+        "stock": 20
+      },
+      {
+        "id": 1,
+        "title": "El principito",
+        "description": "Para niños",
+        "price": 250,
+        "status": true,
+        "thumbnail": "image",
+        "code": 1556,
+        "stock": 5
+      },
+      {
+        "id": 3,
+        "title": "La metamorfosis",
+        "description": "Sombría",
+        "price": 150,
+        "status": true,
+        "thumbnail": "image",
+        "code": 1558,
+        "stock": 3
+      },
+      10,
+      {
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "products": [
+      {
+        "name": "666666666"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "products": [
+      {
+        "name": "666666666"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "products": [
+      {
+        "name": "777777"
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "products": [
+      {
+        "name": "123456789"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "products": [
+      {
+        "name": "Lili"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "products": [
+      {
+        "name": "Holi"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "products": [
+      {
+        "name": "producto nuevo"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "products": [
+      {
+        "name": "producto nuevo"
+      },
+      {
+        "id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "quantity": 1
+      }
+    ]
+  }
+]
